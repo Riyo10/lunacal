@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Riyo10/lunacal/static/css/main.5024e83c.css",
-    "main.js": "/Riyo10/lunacal/static/js/main.df9b06c6.js",
-    "static/js/453.ed3810f9.chunk.js": "/Riyo10/lunacal/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/Riyo10/lunacal/index.html",
-    "main.5024e83c.css.map": "/Riyo10/lunacal/static/css/main.5024e83c.css.map",
-    "main.df9b06c6.js.map": "/Riyo10/lunacal/static/js/main.df9b06c6.js.map",
-    "453.ed3810f9.chunk.js.map": "/Riyo10/lunacal/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/lunacal/static/css/main.5024e83c.css",
+    "main.js": "/lunacal/static/js/main.1ad98667.js",
+    "static/js/453.ed3810f9.chunk.js": "/lunacal/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/lunacal/index.html",
+    "main.5024e83c.css.map": "/lunacal/static/css/main.5024e83c.css.map",
+    "main.1ad98667.js.map": "/lunacal/static/js/main.1ad98667.js.map",
+    "453.ed3810f9.chunk.js.map": "/lunacal/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5024e83c.css",
-    "static/js/main.df9b06c6.js"
+    "static/js/main.1ad98667.js"
   ]
 }
